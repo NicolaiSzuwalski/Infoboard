@@ -1,0 +1,2 @@
+# Infoboard
+Infoboard til techcollege
